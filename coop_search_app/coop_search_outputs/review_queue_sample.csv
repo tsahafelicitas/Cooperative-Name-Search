@@ -1,0 +1,11 @@
+coop_id,name,candidate_id,candidate_name,match_prob,band,evidence,officer_decision
+C01429,Mwangaza Nguvu Housing Cooperative Society Ltd,C01495,Nguvu Housing Cooperative Society Ltd,0.63,REVIEW QUEUE,distinctive words agree (92%); character n-grams overlap (80%); same region,
+C00070,Faraja Mbele Cashew AMCOS Ltd,C00184,Faraja Cashew AMCOS Ltd,0.629,REVIEW QUEUE,character n-grams overlap (73%); same region,
+C00950,Imani SACCOS Ltd,C00911,Imani Zawadi SACCOS Ltd,0.536,REVIEW QUEUE,same region,
+C00029,Mlima Mto SACCOS Ltd,C00019,Mlima SACCOS Ltd,0.678,REVIEW QUEUE,character n-grams overlap (71%); same region,
+C01274,Mwanga Dairy Cooperative Society Ltd,C01188,Chemchem Mwanga Dairy Cooperative Society Ltd,0.503,REVIEW QUEUE,character n-grams overlap (84%); same region,
+C00988,Juhudi Wanawake Mining Cooperative Society Ltd,C01067,Juhudi Mining Cooperative Society Ltd,0.878,REVIEW QUEUE,character n-grams overlap (77%); same region,
+C01780,Mwangaza Mining Cooperative Society Ltd,C01819,Mwanga Mining Cooperative Society Ltd,0.993,LIKELY DUPLICATE - officer to confirm,distinctive words agree (98%); character n-grams overlap (90%); same region,
+C00188,Songa SACCOS Ltd,C00096,Songa Chemchem SACCOS Ltd,0.859,REVIEW QUEUE,same region,
+C00607,Songa Irrigation Cooperative Society Ltd,C00595,Mwanga Songa Irrigation Cooperative Society Ltd,0.86,REVIEW QUEUE,distinctive words agree (93%); character n-grams overlap (88%); same region,
+C00059,Sifa Cashew AMCOS Ltd,C00209,Ziwa Cashew AMCOS Ltd,0.653,REVIEW QUEUE,same region,
